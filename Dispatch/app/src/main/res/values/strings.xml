@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dispatch</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="import_contacts">Import Contacts</string>
+    <string name="message_to_send">Message To Send</string>
+    <string name="save">Save Message</string>
+    <string name="stop">Stop Dispatch</string>
+    <string name="start">Start Dispatch</string>
+    <string name="parseAppID">4vyHRiRuLwLgjPpAExGwFyqMsASenIj7NBRLtXuQ</string>
+    <string name="parseClientID">KW79RFZpsod5vNWD0iH4pZQH24zkzIPDkDU4VrEf</string>
+</resources>
